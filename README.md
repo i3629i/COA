@@ -8,10 +8,10 @@ https://github.com/i3629i/COA/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%A
 ## 1-2장 - 컴퓨터 성능 
 https://github.com/i3629i/COA/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%201%EC%9E%A5%202.md
 
-## 3장
+## 2장
+
+3장
 
 4장
 
 5장
-
-6장
