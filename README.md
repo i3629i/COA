@@ -9,6 +9,7 @@ https://github.com/i3629i/COA/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%A
 https://github.com/i3629i/COA/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%201%EC%9E%A5%202.md
 
 ## 2장
+https://github.com/i3629i/COA/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%202%EC%9E%A5.md
 
 3장
 
